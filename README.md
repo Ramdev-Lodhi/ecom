@@ -1,22 +1,3 @@
-# Ecommerce Website (Django/javascript)
-
-![Django Ecommerce Store](https://github.com/omarreda22/Django-eCommerce-Store/blob/main/core/static/img/e_shop.PNG)
-
-Full-featured shopping cart with PayPal & credit/debit payments
-
-Product rating & review system
-
-An actual real-world project built in a linear and progressive manner
-
-Admin area to manage customers, products & orders
-
-Product search, carousel, pagination & more
-
-
-## View Full Video Demo On [Youtube](https://www.youtube.com/watch?v=lwWEabH0-lY)
-
-<br>
-
 
 ## How to install on Windows
 1. clone this project
@@ -41,14 +22,8 @@ pip install -r requirements.txt
  py manage.py runserver
  ```
  7. go live with [localhost:8000](http://localhost:8000/)
- 
  ### To install on Unix/macOS  [see this document](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments)
- 
- 
  <br>
- 
- 
- 
  ## To add new products and access admin panel 
  1. run on trimnal 
  ```
@@ -56,8 +31,6 @@ pip install -r requirements.txt
  ```
  2. create new admin user
  2. go to [localhost:8000/admin](http://localhost:8000/admin)
-
-
 ## Some of feature in this store
 
 - Full-featured shopping cart
@@ -80,12 +53,6 @@ pip install -r requirements.txt
 - Unlimited pages 
 - Easy to manage the site
 
-
-
 ### Need help? Found a bug? Message me!
-
-
-
 <br>
-
 ### Enjoy^^
